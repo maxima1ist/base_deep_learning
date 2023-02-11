@@ -1,2 +1,20 @@
-# base_deep_learning
-ORC model for captcha recognition
+# ORC model for captcha recognition
+
+## Создание виртуального окружения для Python
+Просто запустите скрипт:
+```
+./scripts/create_venv.sh
+```
+Затем активируйте виртуальное окружение:
+```
+source .venv/bin/activate
+```
+
+## Подготовка данных
+Для скачивания и распаковки данных, а также для формирования тестовой и тренировочной выборки используйте скрипт:
+```
+./scripts/prepare_data.py 
+```
+
+## Создание и обучение модели, подсчет метрик и анализ ошибок модели
+См. note.ipynb.

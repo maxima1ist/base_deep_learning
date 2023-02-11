@@ -2,3 +2,11 @@ autopep8==2.0.1
 gdown==4.6.0
 pylint==2.15.10
 flake8==6.0.0
+torch==1.13.1
+torchaudio==0.13.1
+torchvision==0.14.1
+Pillow==9.4.0
+ipywidgets==8.0.4
+matplotlib==3.6.3
+pytorch-beam-search==1.2.2
+torchmetrics==0.11.1

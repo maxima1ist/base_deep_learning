@@ -7,3 +7,9 @@ data/*
 
 # vscode settings
 .vscode
+
+# Jupyter Notebook cache
+.ipynb_checkpoints
+
+# python cache
+__pycache__
