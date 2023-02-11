@@ -1,0 +1,9 @@
+# python virtual environment
+.venv
+
+# data
+data/*
+!data/.gitkeep
+
+# vscode settings
+.vscode

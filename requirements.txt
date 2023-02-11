@@ -1,0 +1,4 @@
+autopep8==2.0.1
+gdown==4.6.0
+pylint==2.15.10
+flake8==6.0.0
